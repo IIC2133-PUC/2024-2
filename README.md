@@ -32,7 +32,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 | Nombre           | Sección | Email                 |
 | :--------------- | :------ | :-------------------- |
-| Diego Arroyuelo  | 1       | diego.arroyuelo@uc.cl |
+|Yadran Eterovic   | 1       | yadran@uc.cl |
 | Mario Droguett   | 2       | mario@uc.cl           |
 | Eduardo Bustos   | 3       | eb@uc.cl              |
 
