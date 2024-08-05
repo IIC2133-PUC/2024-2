@@ -38,7 +38,14 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 
 ### Ayudantes
-
+| Rol                  | Nombre                           | Correo                   |
+|----------------------|----------------------------------|--------------------------|
+| Coordinadora         | Cata Alamos                       |  catalina.alamos@uc.cl          |
+| Coordinadora Cátedra | Isabella Cherubini               | isabella.cherubini@uc.cl    |
+| Coordinador Tareas   | Sebastián Carrasco                   | sebacarrascop@uc.cl      |
+| Bienestar            |    Rodrigo Jesús De La Fuente De La Fuente | rodridelafuente@uc.cl           |
+|                      | Antonia Cáceres                  | antoniacaceres@uc.cl     |
+|                      | Bárbara Alfaro                   | bcalfaro@uc.cl      
 ## Evaluaciones
 
 El curso consta de una parte teórica, evaluada mediante evaluaciones escritas (interrogaciones), y una parte práctica, evaluada mediante tareas de programación en C.
@@ -49,9 +56,9 @@ Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del co
 
 | Evaluación | Fecha                     |
 | :--------- | :------------------------ |
-| I1         | viernes 10 de mayo, 17:30 |
-| I2         | martes 18 de junio, 17:30 |
-| I3         | martes 9 de julio, 8:20   |
+| I1         | lunes 30 de septiembre, 17:30 |
+| I2         | lunes 18 de noviembre, 17:30 |
+| I3         | martes 10 de diciembre, (por fijar)  |
 
 ### Tareas
 
@@ -59,10 +66,10 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 
 | Evaluación | Fecha Publicación     | Fecha Entrega         |
 | :--------- | :-------------------- | :-------------------- |
-| Tarea 0    | miércoles 13 de marzo | miércoles 27 de marzo |
-| Tarea 1    | miércoles 10 de abril | miércoles 24 de abril |
-| Tarea 2    | lunes 15 de mayo      | viernes 31 de mayo    |
-| Tarea 3    | lunes 3 de junio      | viernes 21 de junio   |
+| Tarea 0    | lunes 12 de agosto    | lunes 26 de agosto |
+| Tarea 1    | lunes 2 de septiembre | jueves 26 de septiembre |
+| Tarea 2    | lunes 14 de octubre   | lunes 28 de octubre    |
+| Tarea 3    | lunes 4 de noviembre  | lunes 25 de noviembre   |
 
 La nota final del curso se calcula de la siguiente manera:
 
