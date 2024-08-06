@@ -56,9 +56,9 @@ Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del co
 
 | Evaluación | Fecha                     |
 | :--------- | :------------------------ |
-| I1         | lunes 30 de septiembre, 17:30 |
+| I1         | miércoles de 2 octubre, 17:30 |
 | I2         | lunes 18 de noviembre, 17:30 |
-| I3         | martes 10 de diciembre, (por fijar)  |
+| Examen     | miércoles 11 de diciembre, (por fijar)  |
 
 ### Tareas
 
