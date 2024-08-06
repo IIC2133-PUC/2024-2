@@ -83,7 +83,7 @@ double nota_final() {
   /* Promedio de tareas */
   double NT = min(0.20 * T0 + 0.30 * T1 + 0.25 * T2 + 0.25 * T3, 7.0);
   /* Promedio de interrogaciones */
-  double NI = min(0.3 * I1 + 0.3* I2 +  0.4*Examen, 7.0);
+  double NI = min(0.3 * I1 + 0.3 * I2 +  0.4 * Examen, 7.0);
 
   /* Nota final */
   double NF = (NT + NI) / 2;
