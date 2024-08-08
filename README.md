@@ -6,25 +6,28 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 ## Tabla de contenidos
 
-- [Organización de este repositorio y syllabus](#organización-de-este-repositorio-y-syllabus)
-- [Equipo](#equipo)
-  - [Profesores](#profesores)
-  - [Ayudantes](#ayudantes)
-- [Evaluaciones](#evaluaciones)
-  - [Evaluaciones Escritas](#evaluaciones-escritas)
-  - [Tareas](#tareas)
-- [Política de Atrasos](#política-de-atrasos)
-- [Política de integridad académica](#política-de-integridad-académica)
-  - [Consideraciones Previas](#consideraciones-previas)
-  - [Declaración de integridad académica](#declaración-de-integridad-académica)
+- [IIC2133 - Estructuras de Datos y Algoritmos](#iic2133---estructuras-de-datos-y-algoritmos)
+  - [2024-2](#2024-2)
+  - [Tabla de contenidos](#tabla-de-contenidos)
+  - [Organización de este repositorio y syllabus](#organización-de-este-repositorio-y-syllabus)
+  - [Equipo](#equipo)
+    - [Profesores](#profesores)
+    - [Ayudantes](#ayudantes)
+  - [Evaluaciones](#evaluaciones)
+    - [Evaluaciones Escritas](#evaluaciones-escritas)
+    - [Tareas](#tareas)
+  - [Política de Cupones y Atrasos](#política-de-cupones-y-atrasos)
+  - [Política de integridad académica](#política-de-integridad-académica)
+    - [Consideraciones Previas](#consideraciones-previas)
+    - [Declaración de integridad académica](#declaración-de-integridad-académica)
 
 ## Organización de este repositorio y syllabus
 
 - Las fechas y ponderaciones de las evaluaciones estarán disponibles en la [sección de evaluaciones](#evaluaciones). Otro material administrativo, como el programa, se encontrará en la carpeta [Administrativo](./Administrativo).
 - Las clases serán subidas a [Clases](./Clases), y las ayudantías a [Ayudantías](./Ayudantías), los enunciados de las tareas a [Tareas](./Tareas), y las pautas de las interrogaciones a [Pautas](./Pautas).
-- Está subido y se podrá subir a lo largo del semestre [Material Complementario](#material-complementario), además de [Guías](./Guías), [Libros](./Libros), y [Código](./Código) de apoyo.
+- Está subido y se podrá subir a lo largo del semestre [Material Complementario](./Material%20Complementario), además de [Guías](./Guías), [Libros](./Libros), y [Código](./Códigos) de apoyo.
 - Podrán además encontrar material de semestres anteriores en [Semestres Anteriores](./Semestres%20Anteriores) y en [Pautas Anteriores](./Pautas%20Anteriores).
-- El medio oficial para preguntas del curso es [GitHub Discussions](https://github.com/IIC2133-PUC/2024-1/discussions). Puedes ahí escribir preguntas de materia, tareas, u otras cosas relacionadas al curso.
+- El medio oficial para preguntas del curso es [GitHub Discussions](https://github.com/IIC2133-PUC/2024-2/discussions). Puedes ahí escribir preguntas de materia, tareas, u otras cosas relacionadas al curso.
 
 ## Equipo
 
