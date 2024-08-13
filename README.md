@@ -67,13 +67,13 @@ Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del co
 | I2         | lunes 18 de noviembre, 17:30 |
 | Examen     | miércoles 11 de diciembre, 8:20|
 
-### Tareas
+### Tareas 
 
-Habrá 4 tareas de programación en C, donde deberán resolver un problema complejo y analizarlo en un informe escrito.
+Habrá 4 tareas de programación en C, donde deberán resolver un problema complejo y analizarlo en un informe escrito. Ten en consideración que son fechas tentativas y pueden cambiar.
 
 | Evaluación | Fecha Publicación     | Fecha Entrega         |
 | :--------- | :-------------------- | :-------------------- |
-| Tarea 0    | lunes 12 de agosto    | lunes 26 de agosto |
+| Tarea 0    | lunes 12 de agosto    | domingo 25 de agosto |
 | Tarea 1    | lunes 2 de septiembre | jueves 26 de septiembre |
 | Tarea 2    | lunes 14 de octubre   | lunes 28 de octubre    |
 | Tarea 3    | lunes 4 de noviembre  | lunes 25 de noviembre   |
