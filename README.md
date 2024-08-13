@@ -14,6 +14,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
     - [Profesores](#profesores)
     - [Ayudantes](#ayudantes)
   - [Evaluaciones](#evaluaciones)
+    - [Bibliografía](#bibliografía)
     - [Evaluaciones Escritas](#evaluaciones-escritas)
     - [Tareas](#tareas)
   - [Política de Cupones y Atrasos](#política-de-cupones-y-atrasos)
