@@ -42,14 +42,37 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 
 ### Ayudantes
-| Rol                  | Nombre                           | Correo                   |
-|----------------------|----------------------------------|--------------------------|
-| Coordinadora         | Cata Alamos                       |  catalina.alamos@uc.cl          |
-| Coordinadora Cátedra | Isabella Cherubini               | isabella.cherubini@uc.cl    |
-| Coordinador Tareas   | Sebastián Carrasco                   | sebacarrascop@uc.cl      |
-| Bienestar            |    Rodrigo Jesús De La Fuente De La Fuente | rodridelafuente@uc.cl           |
-|                      | Antonia Cáceres                  | antoniacaceres@uc.cl     |
-|                      | Bárbara Alfaro                   | bcalfaro@uc.cl      
+|                  Rol | Nombre                       | GitHub                                                     | Correo                   |
+| -------------------: | ---------------------------- | ---------------------------------------------------------- | ------------------------ |
+| Coordinadora         | Cata Alamos                  | [@CataAlamos](https://github.com/CataAlamos)               | catalina.alamos@uc.cl    |
+| Coordinadora Cátedra | Isabella Cherubini           | [@isabellacherubini](https://github.com/isabellacherubini) | isabella.cherubini@uc.cl |
+| Coordinador Tareas   | Sebastián Carrasco           | [@sebacarrasco](https://github.com/sebacarrasco)           | sebacarrascop@uc.cl      |
+| Bienestar  | Rodrigo Jesús De La Fuente De La Fuente | [@rodridelafuente](https://github.com/rodridelafuente)    | rodridelafuente@uc.cl    |
+|                      | Antonia Cáceres              | [@antoniacaceres](https://github.com/antoniacaceres)       | antoniacaceres@uc.cl     |
+|                      | Bárbara Alfaro               | [@bcalfaro](https://github.com/bcalfaro)                   | bcalfaro@uc.cl           |
+|               Tareas | Anita Marti                  | [@4n1t4](https://github.com/4n1t4)                         |
+|                      | Daniel Alejandro Quezada Vicencio | [@Segismundios](https://github.com/Segismundios)      |
+|                      | Javier Agustin Larre Vargas |  [@JavierLarre](https://github.com/JavierLarre)             |
+|                      | Carlos Felipe Olguín Coloma  | [@CarlangaUC](https://github.com/CarlangaUC)               |
+|              Cátedra | Gustavo Salinas              | [@gsalinas0](https://github.com/gsalinas0)                 |
+|                      | Paula Grune                  | [@PaulaGrune](https://github.com/PaulaGrune)               |
+|                      | Alexander Infanta            | [@Aleksandsk](https://github.com/Aleksandsk)               |
+|                      | Agustín Gutiérrez Castro     | [@Magus-gut](https://github.com/Magus-gut)                 |
+|                      | Bernardita Jesús Nazar Jofré | [@bjnazar](https://github.com/bjnazar)                     |
+|                      | Felipe Espinoza              | [@FelipeEspinozaS](https://github.com/FelipeEspinozaS)     |
+|                      | Joaquín Viñuela              | [@Vinuelax](https://github.com/Vinuelax)                   |
+|           Corrección | Heinz Busch                  | [@hebusch](https://github.com/hebusch)                     |
+|                      | Felipe Jara                  | [@FelipeUC2020](https://github.com/FelipeUC2020)           |
+|                      | Santiago Andres Marcano Azuaje | [@ItsSancer](https://github.com/ItsSancer)               |
+|                      | Diego Alonso Lobos Venegas   | [@dlv237](https://github.com/dlv237)                       |
+|                      | Tomás Francisco Triviño Salazar | [@tomastrivino](https://github.com/tomastrivino)        |
+|                      | Benjamín Enrique Martínez Villagrán | [@BenjaMartinezV](https://github.com/BenjaMartinezV)|
+|                      | Clemente Ignacio Campos Pino | [@mskdancers](https://github.com/mskdancers)               |
+|                      | Valentina Andrea Romo Osorio | [@ValentinaRomo](https://github.com/ValentinaRomo)         |
+|                      | Sofía Helena María Olmedo Saavedra | [@sofiaolmedos](https://github.com/sofiaolmedos)     |
+|                      | José Fernando Mendoza Maturana | [@Shoesuke](https://github.com/Shoesuke)                 |
+|                      | Gonzalo Alfonso Bastías Opazo | [@gBastias2001](https://github.com/gBastias2001)          |
+
 ## Evaluaciones
 
 El curso consta de una parte teórica, evaluada mediante evaluaciones escritas (interrogaciones), y una parte práctica, evaluada mediante tareas de programación en C.
