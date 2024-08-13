@@ -53,6 +53,10 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 El curso consta de una parte teórica, evaluada mediante evaluaciones escritas (interrogaciones), y una parte práctica, evaluada mediante tareas de programación en C.
 
+### Bibliografía 
+1. **Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C.** (n.d.). _Introduction to Algorithms_ (3rd ed.). Retrieved from [ProQuest Ebook Central](https://ebookcentral.proquest.com/lib/puccl-ebooks/detail.action?docID=3339142)
+
+
 ### Evaluaciones Escritas
 
 Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del contenido.
