@@ -47,9 +47,9 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Coordinadora         | Cata Alamos                  | [@CataAlamos](https://github.com/CataAlamos)               | catalina.alamos@uc.cl    |
 | Coordinadora Cátedra | Isabella Cherubini           | [@isabellacherubini](https://github.com/isabellacherubini) | isabella.cherubini@uc.cl |
 | Coordinador Tareas   | Sebastián Carrasco           | [@sebacarrasco](https://github.com/sebacarrasco)           | sebacarrascop@uc.cl      |
-| Bienestar  | Rodrigo Jesús De La Fuente De La Fuente | [@rodridelafuente](https://github.com/rodridelafuente)    | rodridelafuente@uc.cl    |
-|                      | Antonia Cáceres              | [@antoniacaceres](https://github.com/antoniacaceres)       | antoniacaceres@uc.cl     |
-|                      | Bárbara Alfaro               | [@bcalfaro](https://github.com/bcalfaro)                   | bcalfaro@uc.cl           |
+| Bienestar Sección 1 | Rodrigo Jesús De La Fuente De La Fuente | [@rodridelafuente](https://github.com/rodridelafuente)    | rodridelafuente@uc.cl    |
+| Bienestar Sección 2                    | Antonia Cáceres              | [@antoniacaceres](https://github.com/antoniacaceres)       | antoniacaceres@uc.cl|
+| Bienestar Sección 3                    | Bárbara Alfaro               | [@bcalfaro](https://github.com/bcalfaro)                   | bcalfaro@uc.cl           |
 |               Tareas | Anita Marti                  | [@4n1t4](https://github.com/4n1t4)                         |
 |                      | Daniel Alejandro Quezada Vicencio | [@Segismundios](https://github.com/Segismundios)      |
 |                      | Javier Agustin Larre Vargas |  [@JavierLarre](https://github.com/JavierLarre)             |
